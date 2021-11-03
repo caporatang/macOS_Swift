@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C70072E6-5A1D-4ACA-B9CA-8D81FCCD0ADE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88A9B571-F0C3-4AE3-82D4-88EAFAE4FA70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "test01/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "88A9B571-F0C3-4AE3-82D4-88EAFAE4FA70 - d4dc6a5a62b46361"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test01.ViewController.button2.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "test01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taeil/Desktop/swift-project/test01/test01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "88A9B571-F0C3-4AE3-82D4-88EAFAE4FA70 - 94e5f0aca46d32d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test01.ViewController.button2.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "test01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taeil/Desktop/swift-project/test01/test01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "88A9B571-F0C3-4AE3-82D4-88EAFAE4FA70 - d0c1e910efc2a99b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test01.ViewController.button2.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "test01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taeil/Desktop/swift-project/test01/test01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "88A9B571-F0C3-4AE3-82D4-88EAFAE4FA70 - 11c3e4287c25de6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test01.ViewController.button2.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "test01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taeil/Desktop/swift-project/test01/test01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "88A9B571-F0C3-4AE3-82D4-88EAFAE4FA70 - 25edd42d442ab19d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test01.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; test01.ViewController"
+                  moduleName = "test01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taeil/Desktop/swift-project/test01/test01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "88A9B571-F0C3-4AE3-82D4-88EAFAE4FA70 - febfbed05a3820f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "test01.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;test01.ViewController&gt;"
+                  moduleName = "test01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taeil/Desktop/swift-project/test01/test01/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
